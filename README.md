@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HappyGuyM
+- 👋 Hi, I’m @MartijnVerberk
 - 👀 I’m interested in photography, drone's and gaming, besides coding ofcourse!
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: Discord: Martini#6669, email: martijnverberk@gmail.com
