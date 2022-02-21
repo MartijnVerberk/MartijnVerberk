@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MartijnVerberk
 - 👀 I’m interested in photography, drone's and gaming, besides coding ofcourse!
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and C#.
 - 📫 How to reach me: Discord: Martijn#6669, email: martijnverberk@gmail.com
 
 <!---
